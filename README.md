@@ -42,5 +42,3 @@ The detailed algorithm and simulation results are outlined in a publication draf
 Contributions to the project are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
 
 
-For more information or inquiries, please contact lukaszmilevski@gmail.com.
-
