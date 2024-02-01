@@ -6,9 +6,9 @@ This repository contains the source code for a C++ application developed for mes
 
 Biological membrane adhesion is a complex phenomenon with significant implications in various fields such as cell biology and biophysics. This program allows researchers to simulate membrane adhesion processes at the mesoscopic level using Monte Carlo methods.
 
-![Tekst zastępczy](figure1.png){width=50%}
+![Tekst zastępczy](figure1.png){width=30%}
 
-![Tekst zastępczy](figure2.png){width=50%}
+![Tekst zastępczy](figure2.png){width=30%}
 ## Features
 
 - **Mesoscopic Simulation:** Utilizes Monte Carlo methods to simulate membrane adhesion processes at the mesoscopic scale.
