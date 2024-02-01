@@ -1,20 +1,38 @@
-# Researcher at Institute of Physics, Polish Academy of Sciences
+# Monte Carlo Adhesion Simulation
 
-## June 2022 – September 2023
+This repository contains the source code for a C++ application developed for mesoscopic Monte Carlo simulations using the Helfrich model to investigate biological membrane adhesion.
 
-As a researcher at the Institute of Physics, Polish Academy of Sciences, I was involved in a project focused on investigating biological membrane adhesion through mesoscopic Monte Carlo simulations utilizing the Helfrich model. During this time, I developed a C++ application to conduct these simulations, and the detailed algorithm and results are outlined in a publication draft currently submitted.
+## Overview
 
-### Responsibilities and Achievements:
+Biological membrane adhesion is a complex phenomenon with significant implications in various fields such as cell biology and biophysics. This program allows researchers to simulate membrane adhesion processes at the mesoscopic level using Monte Carlo methods.
 
-- Developed a C++ application for mesoscopic Monte Carlo simulations using the Helfrich model to study biological membrane adhesion.
-- Contributed significantly to the creation of impactful figures using vector graphics and Inkscape, enhancing the visual presentation of research results.
-- Collaborated closely with team members to analyze simulation data and interpret results.
-- Prepared and presented research findings at team meetings and scientific conferences.
-- Worked on drafting a publication detailing the research methodology, results, and implications.
+## Features
 
-### Publication:
+- **Mesoscopic Simulation:** Utilizes Monte Carlo methods to simulate membrane adhesion processes at the mesoscopic scale.
+- **Helfrich Model:** Implements the Helfrich model, a widely used theoretical framework for studying membrane mechanics.
+- **Publication Draft:** Detailed algorithm and simulation results are outlined in a publication draft currently submitted.
+- **Visual Presentation:** Includes tools to generate impactful figures using vector graphics, enhancing the visual presentation of research results.
 
-The research findings are outlined in a publication draft currently submitted. The corresponding source code for the C++ application is available upon request.
+## Getting Started
 
-For more information about the project or to request access to the source code, please contact [your email address].
+To get started with the Monte Carlo adhesion simulation, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/yourusername/monte-carlo-adhesion.git`
+2. Navigate to the project directory: `cd monte-carlo-adhesion`
+3. Compile the source code: `make`
+4. Run the simulation: `./monte_carlo_adhesion`
+
+## Publication
+
+The detailed algorithm and simulation results are outlined in a publication draft currently submitted. For access to the publication draft or inquiries about the research findings, please contact [your email address].
+
+## Contributing
+
+Contributions to the project are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+For more information or inquiries, please contact [your email address].
 
