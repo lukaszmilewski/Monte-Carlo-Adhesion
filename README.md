@@ -12,6 +12,9 @@ Biological membrane adhesion is a complex phenomenon with significant implicatio
 - **Helfrich Model:** Implements the Helfrich model, a widely used theoretical framework for studying membrane mechanics.
 - **Publication Draft:** Detailed algorithm and simulation results are outlined in a publication draft currently submitted.
 - **Visual Presentation:** Includes tools to generate impactful figures using vector graphics, enhancing the visual presentation of research results.
+- **Configuration Loading:** The program includes a function for easier configuration loading. Snapshots are overwritten to separate files named `K_(...)_snapshot.txt`.
+- **Snapshot History:** Configurations saved every few MC steps are stored in the file `K_(...)_snapshot_history.txt`.
+- **Running with Previous Configuration:** Users can run the program with parameters from a previous configuration
 
 ## Getting Started
 
@@ -22,17 +25,22 @@ To get started with the Monte Carlo adhesion simulation, follow these steps:
 3. Compile the source code: `make`
 4. Run the simulation: `./monte_carlo_adhesion`
 
+- Use `./sim.o K_(...)_data.out K_(...)_snapshot.txt` to load parameters and configuration from previous files.
+- To adjust equilibration steps (`nequil`) and MC steps (`ncyc`), use:
+  ```
+  ./sim.o K_(...)_data.out K_(...)_snapshot.txt $nequil $ncyc
+  ```
+
+For more information or inquiries, please contact lukaszmilevski@gmail.com.
+
 ## Publication
 
-The detailed algorithm and simulation results are outlined in a publication draft currently submitted. For access to the publication draft or inquiries about the research findings, please contact [your email address].
+The detailed algorithm and simulation results are outlined in a publication draft currently submitted. For access to the publication draft or inquiries about the research findings, please contact lukaszmilevski@gmail.com
 
 ## Contributing
 
 Contributions to the project are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-For more information or inquiries, please contact [your email address].
+For more information or inquiries, please contact lukaszmilevski@gmail.com.
 
