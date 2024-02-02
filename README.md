@@ -35,6 +35,10 @@ To get started with the Monte Carlo adhesion simulation, follow these steps:
 
 For more information or inquiries, please contact lukaszmilevski@gmail.com.
 
+## Results examples
+
+![Tekst zastępczy](figure2.png)
+
 ## Publication
 
 The detailed algorithm and simulation results are outlined in a publication draft currently submitted. For access to the publication draft or inquiries about the research findings, please contact lukaszmilevski@gmail.com
