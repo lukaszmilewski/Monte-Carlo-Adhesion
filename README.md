@@ -41,7 +41,11 @@ For more information or inquiries, please contact lukaszmilevski@gmail.com.
 
 ## Publication
 
-The detailed algorithm and simulation results are outlined in a publication draft currently submitted. For access to the publication draft or inquiries about the research findings, please contact lukaszmilevski@gmail.com
+The detailed algorithm and simulation results are outlined in a book chapter:
+
+"Lattice-based mesoscale simulations and mean-field theory of cell membrane adhesion" (2024), Li L., Gao J., Milewski Ł.,Hu J., Różycki B., Methods in Enzymology, Academic Press, Volume 701, 2024, pages 425:455, ISSN 0076-6879, ISBN 9780443295669, doi:10.1016/bs.mie.2024.03.005
+
+For access to the publication or inquiries about the research findings, please contact lukaszmilevski@gmail.com
 
 ## Contributing
 
